@@ -27,7 +27,7 @@ Multi-Geo is now also available in Power BI Embedded. Read more at [Multi-Geo su
 
 
 > [!NOTE]
-> Power BI Premium Per User (PPU) is not supported for Multi-Geo.
+>Dataflows is now supported multi-geo when you use the bring-your-own-storage-account feature. This feature is described in Configuring dataflow storage to use Azure Data Lake Gen 2. The workspace must be empty prior to attach for this capability. With this specific configuration, you can store dataflow data in specific geo regions of your choice.
 
 ## Enable and configure
 
